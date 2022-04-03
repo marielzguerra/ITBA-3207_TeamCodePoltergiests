@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Climate change is happening right now, and it is considered as the biggest environmental problem that today's generation has ever faced. The National Aeronautics and Space Administration (NASA) explains how climate change has thoroughly changed the Earth for the past centuries. Global warming is unmistakably the product of human activities since the mid-twentieth century, and it is occurring at an unprecedented rate spanning millennia.[^^](https://climate.nasa.gov/evidence/#footnote_1)It is
+Climate change is happening right now, and it is considered as the biggest environmental problem that today's generation has ever faced. The National Aeronautics and Space Administration (NASA) explains how climate change has thoroughly changed the Earth for the past centuries. Global warming is unmistakably the product of human activities since the mid-twentieth century, and it is occurring at an unprecedented rate spanning millennia. It is
 undeniable that human activities contributed to warming the atmosphere, ocean, and land and that widespread and rapid changes in the atmosphere, ocean, cryosphere, and biosphere have occurred. Since the late 90s, the average surface temperature of the planet has risen about 2 degrees Fahrenheit (1C°), causing increased carbon dioxide emissions into the atmosphere and other human activities. During the last 40 years, the majority of the temperature rise has occurred with the last seven years being the warmest. The hottest years on record are 2016 and 2020.
 
 Though carbon dioxide absorbs less heat per molecule compared to other greenhouse gasses, it is the most abundant and stays longer in the atmosphere. It stays 300 to 100 years in the
