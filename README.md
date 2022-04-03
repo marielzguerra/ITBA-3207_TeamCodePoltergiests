@@ -1,3 +1,5 @@
+**A Data Exploration of Carbon Emission to Improve the Implementation of NDC in the Philippines**
+
 **Introduction**
 
 Climate change is happening right now, and it is considered as the biggest environmental problem that today's generation has ever faced. The National Aeronautics and Space Administration (NASA) explains how climate change has thoroughly changed the Earth for the past centuries. Global warming is unmistakably the product of human activities since the mid-twentieth century, and it is occurring at an unprecedented rate spanning millennia.[^^](https://climate.nasa.gov/evidence/#footnote_1)It is
