@@ -17,6 +17,13 @@ This project is conducted to provide a data analysis that could help to improve 
 
 **Significance of the Proposed Project**
 
+This research will specifically benefit the following:
+         Government - This research will help them to improve their implementation of mitigation plans for climate change, and make the local communities and individuals participate in the program and achieve the goal.  
+
+         Citizens - This research provides information to the Filipino citizens about the current situation of the globe and the country itself concerning greenhouse gas emission that results in climate change. For them to be aware and well informed on how they could contribute and cooperate to the government to achieve the goal.
+
+          Future Researchers – The findings of this study may be utilized to help the future researchers in their future studies in relation to climate change and come up with an ideal mitigation plan for climate change that they may propose to their local community.
+
 **Methods**
 
 **Expected Output**
