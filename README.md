@@ -10,7 +10,7 @@ atmosphere, and each year, we emit carbon dioxide in the atmosphere more than wh
 
 Philippines, despite being one of those countries who contributes less on carbon emission, implements a mitigation plan as response to climate change. Recently,  President Rodrigo R. Duterte has approved the Philippines' first Nationally Determined Contribution (NDC) which aims to reduce greenhouse gas (GHG) emissions by 75% by 2030, the Finance department stated. Though the country's ability to achieve the target of NDC still depends on the cooperation of public and private sectors.
 
-This project is conducted to provide a data analysis that could help to improve the mitigation plan in response to climate change that can be implemented in the Philippines and helps to achieve the NDC.
+This project is conducted to provide a data analysLocal communities cooperation is a crucial aspect of the implementation of NDC. Data exploration will be conducted by the researcher to visualize the data and easily identify the insight of other countries' response to climate change and dig deeper into their mitigation plan to achieve the neutral greenhouse gas emission in their country. Excluded in the datasets that the researchers have, was the details of the mitigation plan of each country. In order to acquire more knowledge about how they manage to have a positive response in carbon emission, the researchers collected articles that provide adequate information about their mitigation strategies. Those countries who have achieved the net-zero emission that was shown in the dataset will be listed along with their strategies. Their plan will be evaluated and the existing mitigation strategies that the Philippine Government have implemented across the country will be compared in order to determine how to improve it.is that could help to improve the mitigation plan in response to climate change that can be implemented in the Philippines and helps to achieve the NDC.
 
 
 **Problem Statement**
@@ -26,5 +26,7 @@ Citizens - This research provides information to the Filipino citizens about the
 Future Researchers – The findings of this study may be utilized to help the future researchers in their future studies in relation to climate change and come up with an ideal mitigation plan for climate change that they may propose to their local community.
 
 **Methods**
+
+Local communities cooperation is a crucial aspect of the implementation of NDC. Data exploration will be conducted by the researcher to visualize the data and easily identify the insight of other countries' response to climate change and dig deeper into their mitigation plan to achieve the neutral greenhouse gas emission in their country. Excluded in the datasets that the researchers have, was the details of the mitigation plan of each country. In order to acquire more knowledge about how they manage to have a positive response in carbon emission, the researchers collected articles that provide adequate information about their mitigation strategies. Those countries who have achieved the net-zero emission that was shown in the dataset will be listed along with their strategies. Their plan will be evaluated and the existing mitigation strategies that the Philippine Government have implemented across the country will be compared in order to determine how to improve it.
 
 **Expected Output**
