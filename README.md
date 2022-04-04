@@ -15,6 +15,9 @@ This project is conducted to provide a data analysLocal communities cooperation 
 
 **Problem Statement**
 
+While the goal of the NDC seems to be too ambitious, it can’t be done by the government alone. A huge effort from public or private enterprises is needed as well as the local government and most specially each citizen of the country. It takes all individuals to make the changes possible. The primary issue that this project addressed is the low level of participation and involvement of  the local communities and local governments, due to lack of available and sufficient information on the implementation process and measures aimed at achieving it. Monitoring progress becomes much more difficult due to the absence of information. If there is a lack of civil society participation, it can hinder transparency and accountability efforts by government and related monitoring mechanisms at all levels. 
+
+
 **Significance of the Proposed Project**
 
 This research will specifically benefit the following:
