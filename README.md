@@ -1,4 +1,4 @@
-## **A Data Exploration of Carbon Emission to Improve the Implementation of NDC in the Philippines**
+## **A Data Exploration of Greenhouse Gas Emission to Improve the Implementation of NDC in the Philippines**
 
 **Introduction**
 
