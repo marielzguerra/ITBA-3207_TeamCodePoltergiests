@@ -36,3 +36,19 @@ Local communities cooperation is a crucial aspect of the implementation of NDC. 
 
 2020 ranks as the second-hottest year on record for the planet, knocking 2019 down to third hottest, according to an analysis by NOAA scientists. NASA scientists, who conducted a separate but similar analysis, have determined that 2020 ties 2016 as the warmest year on record, sharing the first-place spot (NOAA, 2021). This research is conducted to provide an efficient exploratory of data to be utilized in order to improve the implementation of NDC in the country. Effective cooperation to meet the goals established requires good and efficient climate change governance. To minimize duplication of effort between the government and civil society, the governance system must also include a transparent distribution of tasks.
 
+**Sustainable Development Goals**
+1. GOAL 7: AFFORDABLE AND CLEAN ENERGY - Energy is central to nearly every major challenge and opportunity.
+2. GOAL 12: RESPONSIBLE CONSUMPTION AND PRODUCTION - Responsible Production and Consumption
+3. GOAL 13: CLIMATE ACTION - Climate change is a global challenge that affects everyone, everywhere.
+4. GOAL 15: LIFE ON LAND - Sustainably manage forests, combat desertification, halt and reverse land degradation, halt biodiversity loss
+
+** Datasets References**
+[CO2 and Greenhouse Gas Emission] (https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424271/co2-emissions-and-gdp.2.xlsx)
+[Global Surface Temperature Analysis](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424269/GLB.Ts%2BdSST.xlsx)
+
+
+** Other References **
+You can check [PROJECT PROPOSAL DOCUMENT.docx](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424285/PROJECT.PROPOSAL.DOCUMENT.docx) to see other reference for this project.
+
+
+
