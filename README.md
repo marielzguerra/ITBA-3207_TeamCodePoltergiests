@@ -43,11 +43,14 @@ Local communities cooperation is a crucial aspect of the implementation of NDC. 
 4. GOAL 15: LIFE ON LAND - Sustainably manage forests, combat desertification, halt and reverse land degradation, halt biodiversity loss
 
 **Datasets References**
+
 [CO2 and Greenhouse Gas Emission](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424271/co2-emissions-and-gdp.2.xlsx)
+
 [Global Surface Temperature Analysis](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424269/GLB.Ts%2BdSST.xlsx)
 
 
 **Other References**
+
 You can check [PROJECT PROPOSAL DOCUMENT.docx](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424285/PROJECT.PROPOSAL.DOCUMENT.docx) to see other reference for this project.
 
 
