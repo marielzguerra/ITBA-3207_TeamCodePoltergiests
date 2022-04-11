@@ -18,6 +18,7 @@ Despite the fact that the NDC's goal looks to be excessively high, the governmen
 **Significance of the proposed project**
 
 This research will specifically benefit the following:
+
 Government - This research will help them to improve their implementation of mitigation plans for climate change, and make the local communities and individuals participate in the program and achieve the goal.  
 
 Citizens - This research provides information to the Filipino citizens about the current situation of the globe and the country itself concerning greenhouse gas emission that results in climate change. For them to be aware and well informed on how they could contribute and cooperate to the government to achieve the goal.
