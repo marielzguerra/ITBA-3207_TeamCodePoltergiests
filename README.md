@@ -13,8 +13,7 @@ This project is conducted to provide a data analysis that could help to improve 
 
 **Problem Statement**
 
-While the goal of the NDC seems to be too ambitious, it can’t be done by the government alone. A huge effort from public or private enterprises is needed as well as the local government and most specially each citizen of the country. It takes all individuals to make the changes possible. The primary issue that this project addressed is the low level of participation and involvement of  the local communities and local governments, due to lack of available and sufficient information on the implementation process and measures aimed at achieving it. Monitoring progress becomes much more difficult due to the absence of information. If there is a lack of civil society participation, it can hinder transparency and accountability efforts by government and related monitoring mechanisms at all levels. 
-
+Despite the fact that the NDC's goal looks to be excessively high, the government cannot achieve it on its own. Public and commercial organizations, as well as local governments and, most importantly, each and every citizen of the country, must put up a major effort. To get the desired objectives, people must work together. The primary issue that this project addressed is the low level of participation and involvement of  the local communities and local governments, due to lack of available and sufficient information on the implementation process and measures aimed at achieving it. Monitoring progress becomes much more difficult due to the absence of information. If there is a lack of society participation, it can hinder transparency and accountability efforts by government and related monitoring mechanisms at all levels.
 
 **Significance of the Proposed Project**
 
