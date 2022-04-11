@@ -31,7 +31,7 @@ Local communities cooperation is a crucial aspect of the implementation of NDC. 
 
 **Expected Output**
 
-2020 ranks as the second-hottest year on record for the planet, knocking 2019 down to third hottest, according to an analysis by NOAA scientists. NASA scientists, who conducted a separate but similar analysis, have determined that 2020 ties 2016 as the warmest year on record, sharing the first-place spot (NOAA, 2021). This research is conducted to provide an efficient exploratory of data to be utilized in order to improve the implementation of NDC in the country. Effective cooperation to meet the goals established requires good and efficient climate change governance. To minimize duplication of effort between the government and civil society, the governance system must also include a transparent distribution of tasks.
+According to NOAA experts,2020 is the warmest year on record, tying 2016 for top place with 2019 falling to third. This study aims to give a thorough examination of data that may be used to improve the country's NDC implementation. Good and efficient climate change governance is required for effective collaboration to attain the specified goals. The governance structure must also contain a clear division of tasks to reduce duplication of effort between the government and civil society.
 
 **Sustainable Development Goals**
 1. GOAL 7: AFFORDABLE AND CLEAN ENERGY - Energy is central to nearly every major challenge and opportunity.
