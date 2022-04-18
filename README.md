@@ -51,9 +51,7 @@ Ritchie, H. and Roser, M. (2020, August).  CO2 and Greenhouse Gas Emissions.  Re
 
 Ritchie, H. and Roser, M. (2020, August).  CO2 and Greenhouse Gas Emissions.  Retrieved April 2022, from Our World in Data: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
-**Other References**
 
-You can check [PROJECT PROPOSAL DOCUMENT.docx](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424285/PROJECT.PROPOSAL.DOCUMENT.docx) to see other reference for this project.
 
 
 
