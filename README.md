@@ -47,7 +47,9 @@ According to NOAA experts,2020 is the warmest year on record, tying 2016 for top
 
 [Concentration of Carbon dioxide, 1959-2020 (parts per million)](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8460662/download.xlsx)
 
+Ritchie, H. and Roser, M. (2020, August).  CO2 and Greenhouse Gas Emissions.  Retrieved April 2022, from Our World in Data: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
+Ritchie, H. and Roser, M. (2020, August).  CO2 and Greenhouse Gas Emissions.  Retrieved April 2022, from Our World in Data: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
 **Other References**
 
