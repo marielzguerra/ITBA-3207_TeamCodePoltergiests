@@ -47,11 +47,22 @@ According to NOAA experts,2020 is the warmest year on record, tying 2016 for top
 
 [Concentration of Carbon dioxide, 1959-2020 (parts per million)](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8460662/download.xlsx)
 
-Ritchie, H. and Roser, M. (2020, August).  CO2 and Greenhouse Gas Emissions.  Retrieved April 2022, from Our World in Data: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+United Nations Development Program. (2022). Philippines. Retrieved April 2022, from Global NDC Support Program:  https://www.ndcs.undp.org/content/ndc-support-programme/en/home/our-work/geographic/asia-and-pacific/Philippines.html
 
-Ritchie, H. and Roser, M. (2020, August).  CO2 and Greenhouse Gas Emissions.  Retrieved April 2022, from Our World in Data: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+Osmanski S. (2020, March 30). How Do Carbon Emissions Affect the Environment?. Retrieved March 2022, from Green Matters: https://www.greenmatters.com/p/how-do-carbon-emissions-affect-environment
 
+NOAA Science.Service.Stewardship. (2021, January 14). 2020 was Earth’s 2nd Hottest-Year, Just Behind 2016. Retrieved April 2022, from NOAA Science.Service.Stewardship: https://www.noaa.gov/news/2020-was-earth-s-2nd-hottest-year-just-behind-2016
 
+NASA: Climate Change and Global Warming. (2022, March 23). Global Temperature. Retrieved April 2022, from NASA: Climate Change and Global Warming: https://climate.nasa.gov/vital-signs/global-temperature/
 
+Yang, A. (2021, April 16). Philippines Commits to 75% Reduction in Greenhouse Gas Emission By 2030. Retrieved April 2022, from Business World: https://www.bworldonline.com/philippines-commits-to-75-reduction-in-greenhouse-gas-emissions-by-2030/
 
+Fecht, S. (2021, February 25). How Exactly Does carbon Dioxide Cause Global Warming?. Retrieved April 2022, from Columbia Climate School: Climate, Earth and Society: https://news.climate.columbia.edu/2021/02/25/carbon-dioxide-cause-global-warming/
 
+National Integrated Climate Change Database Information and Exchange System. (2022). Climate Change Impacts. Retrieved April 2022, from NICCDIES: https://niccdies.climate.gov.ph/climate-change-impacts
+
+NASA: Climate Change and Global Warming. (2022, March 23).Climate Change: How Do We Know?. Retrieved April 2022, from NASA: Climate Change and Global Warming: https://climate.nasa.gov/evidence/
+
+UNSD. (2022, March 23) United Nations SDG Indicator: Goal 13. Retrieved April 2022, from United Nation Statistic Division: https://unstats.un.org/sdgs/report/2021/goal-13/
+
+UN Environment Programme. (2021, October 26). Updated Climate Commitments ahead of COP26 Summit Fall Far Short , But Net-Zero Pledges Provides Hope. Retrieved April 2022, from UN Environment Programme: https://www.unep.org/news-and-stories/press-release/updated-climate-commitments-ahead-cop26-summit-fall-far-short-net
