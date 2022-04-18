@@ -47,6 +47,12 @@ According to NOAA experts,2020 is the warmest year on record, tying 2016 for top
 
 [Concentration of Carbon dioxide, 1959-2020 (parts per million)](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8460662/download.xlsx)
 
+Ritchie, H. and Roser, M. (2020, August).  CO2 and Greenhouse Gas Emissions.  Retrieved April 2022, from Our World in Data: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+
+Schmidt, G. (2020, March). GISS Surface Temperature Analysis (GISTEMP v4). Retrieved April   2022,  from National Aeronautics and Space Administration - Goddard Institute for Space Studies:https://data.giss.nasa.gov/gistemp/
+
+UNSD. (2022, March 23) United Nations SDG Indicator: Goal 13. Retrieved April 2022, from  United Nation Statistic Division: https://unstats.un.org/sdgs/report/2021/goal-13/
+
 United Nations Development Program. (2022). Philippines. Retrieved April 2022, from Global NDC Support Program:  https://www.ndcs.undp.org/content/ndc-support-programme/en/home/our-work/geographic/asia-and-pacific/Philippines.html
 
 Osmanski S. (2020, March 30). How Do Carbon Emissions Affect the Environment?. Retrieved March 2022, from Green Matters: https://www.greenmatters.com/p/how-do-carbon-emissions-affect-environment
