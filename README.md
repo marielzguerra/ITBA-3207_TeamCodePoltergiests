@@ -39,6 +39,8 @@ According to NOAA experts,2020 is the warmest year on record, tying 2016 for top
 3. GOAL 13: CLIMATE ACTION - Climate change is a global challenge that affects everyone, everywhere.
 4. GOAL 15: LIFE ON LAND - Sustainably manage forests, combat desertification, halt and reverse land degradation, halt biodiversity loss
 
+![Sustainable_Development_Goal_13](https://user-images.githubusercontent.com/102888960/171018002-4e4a4d63-5493-4c6d-9d8c-d0851890602b.png)
+
 **Datasets References**
 
 [CO2 and Greenhouse Gas Emission](https://github.com/marielzguerra/ITBA-3207_TeamCodePoltergiests/files/8424271/co2-emissions-and-gdp.2.xlsx)
