@@ -1,5 +1,12 @@
 ## **A Data Exploration of Greenhouse Gas Emission to Improve the Implementation of NDC in the Philippines**
 
+**MEMBERS**
+Abraham, Jhon Martin
+Esguerra, Charles Ivan
+Guerra, Mariel
+Ilagan, Renz Andrew
+Salazar, Jhon Francis
+
 **Introduction**
 
 Climate change is happening right now, and it is widely considered to be the most serious environmental crisis that our generation has ever faced. Climate change has dramatically transformed the Earth over millennia, according to NASA. Global warming has been clearly driven by human activity since the mid-twentieth century, and it is proceeding at a millennia-long rate. Human activities have undoubtedly contributed to the warming of the atmosphere, oceans, and land, as well as extensive and fast changes in the atmosphere, oceans, cryosphere, and biosphere. 
