@@ -1,4 +1,4 @@
-## **A Data Exploration of Greenhouse Gas Emission to Improve the Implementation of NDC in the Philippines**
+## **DO OR DIE: A Data Exploration of Greenhouse Gas Emission to Improve the Implementation of Mitigation Plan Towards Carbon Emission in the Philippines**
 
 **MEMBERS**
 
