@@ -29,24 +29,27 @@ To provide help for the improvement of NDC implementation in the Philippines, re
 
 Philippine NDC lacks clarity for achieving its objective of r3ducing the emissions by 75% by 230. Accordinf to Greenpeace Philippines (2021), the proposal does not address specific and concrete policies for imolenetation in to different sectors such as transportation, waste, energy, industrial and agricultural sectors. The government is responsible for the imolementation of NDC as part of climatechange adaptation strategy, although NDC requires higher degree of the participation of each citizen, it is not clearly evident. The cooperation of each individual is also necessary, as well as the collaboration and initiatives of relevant agencies from each sectors to support the Philippine government in accomolishing the aim. 
 
+
 **Significance of the proposed project**
 
-This research will specifically benefit the following:
+The following will benifit from the study: 
 
-Government - This research will help them to improve their implementation of mitigation plans for climate change, and make the local communities and individuals participate in the program and achieve the goal.  
+Government -  This research will assist the governmemt in better implementation of climate change mitigation plan to ensure that engagement of local communities to the lrogram to accomolish the objectives. 
 
-Citizens - This research provides information to the Filipino citizens about the current situation of the globe and the country itself concerning greenhouse gas emission that results in climate change. For them to be aware and well informed on how they could contribute and cooperate to the government to achieve the goal.
+Citizens - This research informs Filipino citizens in terms of greenhouse gas emissions that cause climate change and inform them on how they may help the government to achive the goal by contributing and cooperating with it. 
 
 Future Researchers – The findings of this study may be utilized to help the future researchers in their future studies in relation to climate change and come up with an ideal mitigation plan for climate change that they may propose to their local community.
 
+
 **Methods**
 
-Local communities cooperation is a crucial aspect of the implementation of NDC. Data exploration will be conducted by the researcher to visualize the data and easily identify the insight of other countries' response to climate change and dig deeper into their mitigation plan to achieve the neutral greenhouse gas emission in their country. Excluded in the datasets that the researchers have, was the details of the mitigation plan of each country. In order to acquire more knowledge about how they manage to have a positive response in carbon and other green  emission, the researchers collected articles that provide adequate information about their mitigation strategies. Their plan will be evaluated and the existing mitigation strategies that the Philippine Government have implemented across the country will be compared in order to determine how to improve it.
+Cooperation among private or public sectors and local communities is critical to the imolementation of the NDC. The researchers will undertake data exploration in order to display the information and quickly uncover insights regarding other nation's responses to climate change, as well as dive deeper into their mitigation plans to reach carbon neutrality in their country. The reasearchers will also gather articles that give relevant information about country's mitigation measures in order to learn more about how they manage to have a positive response in carbon emission and other greenhouse gasses. 
+
 
 **Expected Output**
 
-According to NOAA experts,2020 is the warmest year on record, tying 2016 for top place with 2019 falling to third. This study aims to give a thorough examination of data that may be used to improve the country's NDC implementation. Good and efficient climate change governance is required for effective collaboration to attain the specified goals. The governance structure must also contain a clear division of tasks to reduce duplication of effort between the government and civil society.
-
+According to NOAA scientist, 2020 will be the warmest year on record, matching 2016 for the first place and putting 2019 in third place. The goal of this study is to examine data in depth in order to improve the country's NDC imolementation. Effective collaboration to achieve the identified goals necessitates good and efficient climate change governance.
+ 
 **Sustainable Development Goals**
 1. GOAL 7: AFFORDABLE AND CLEAN ENERGY - Energy is central to nearly every major challenge and opportunity.
 <img src= "https://user-images.githubusercontent.com/102888960/171345565-5f662bab-4acd-4f96-8da1-eedea47b9e13.png" width="150" height="150">
