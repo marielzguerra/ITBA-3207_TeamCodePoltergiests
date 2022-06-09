@@ -71,23 +71,43 @@ According to NOAA scientist, 2020 will be the warmest year on record, matching 2
 
 
 2020 was Earth’s 2nd-hottest year, just behind 2016 | National Oceanic and Atmospheric Administration. (2021, January 14). 2020 Was Earth’s 2nd-Hottest Year, Just behind 2016 | National Oceanic and Atmospheric Administration; www.noaa.gov. https://www.noaa.gov/news/2020-was-earth-s-2nd-hottest-year-just-behind-2016
+
 Climate Change Evidence: How Do We Know? (2022, June 9). Climate Change: Vital Signs of the Planet; climate.nasa.gov. https://climate.nasa.gov/evidence/
+
 Climate Change, N. G. (1884, January 1). Global Surface Temperature | NASA Global Climate Change. Climate Change: Vital Signs of the Planet; climate.nasa.gov. https://climate.nasa.gov/vital-signs/global-temperature/
+
 Commission, C. C. (n.d.). NICCDIES | Climate Change Impacts. NICCDIES; niccdies.climate.gov.ph. Retrieved April 03, 2022, from https://niccdies.climate.gov.ph/climate-change-impacts
+
 Data.GISS: GISS Surface Temperature Analysis (GISTEMP v4). (n.d.). Data.GISS: GISS Surface Temperature Analysis (GISTEMP V4); data.giss.nasa.gov. Retrieved April 02, 2022, from https://data.giss.nasa.gov/gistemp/
+
 DOE must step up to mend PH’s delayed, underwhelming climate targets - Greenpeace Philippines. (n.d.). Greenpeace Philippines; www.greenpeace.org. Retrieved June 10, 2022, from https://www.greenpeace.org/philippines/story/10376/doe-must-step-up-to-mend-phs-delayed-underwhelming-climate-targets/
+
 Eban Goodstein, W. by, Kristin Hanczor, W. by, Bard Graduate Programs in Sustainability, W. by, & Katie Boyle, W. by. (n.d.). Is It Too Late to Stop Climate Change? A Response to Franzen. Is It Too Late to Stop Climate Change? A Response to Franzen; leadthechange.bard.edu. Retrieved June 10, 2022, from https://leadthechange.bard.edu/blog/too-late-to-stop-global-warming-a-response-to-franzen
+
 Energy: 100% Renewable St Helena - Greening The Islands. (2018, October 11). Greening The Islands; www.greeningtheislands.net. http://www.greeningtheislands.net/index.php/nproject/100-renewable-st-helena/
+
 Fecht, S. (2021, February 25). How Exactly Does Carbon Dioxide Cause Global Warming? - You Asked. State of the Planet; news.climate.columbia.edu. https://news.climate.columbia.edu/2021/02/25/carbon-dioxide-cause-global-warming/
+
 Osmanski, S. (2020, March 30). How Do Carbon Emissions Affect the Environment? Green Matters; www.greenmatters.com. https://www.greenmatters.com/p/how-do-carbon-emissions-affect-environment
+
 Overview of Greenhouse Gases | US EPA. (2015, December 23). US EPA; www.epa.gov. https://www.epa.gov/ghgemissions/overview-greenhouse-gases#:~:text=Carbon%20Dioxide%20Emissions&text=Carbon%20dioxide%20(CO2)%20is,gas%20emissions%20from%20human%20activities.
+
 PACC Niue | UNDP Climate Change Adaptation. (n.d.). PACC Niue | UNDP Climate Change Adaptation; www.adaptation-undp.org. Retrieved June 10, 2022, from https://www.adaptation-undp.org/projects/bf-pacc-niue
+
 Philippines commits to 75% reduction in greenhouse gas emissions by 2030 - BusinessWorld Online. (2021, April 16). BusinessWorld Online; www.bworldonline.com. https://www.bworldonline.com/philippines-commits-to-75-reduction-in-greenhouse-gas-emissions-by-2030/
+
 Philippines. (n.d.). Philippines; www.ndcs.undp.org. Retrieved April 02, 2022, from https://www.ndcs.undp.org/content/ndc-support-programme/en/home/our-work/geographic/asia-and-pacific/Philippines.html
+
 Philippines. (n.d.). Philippines; www.ndcs.undp.org. Retrieved June 10, 2022, from https://www.ndcs.undp.org/content/ndc-support-programme/en/home/our-work/geographic/asia-and-pacific/Philippines.html
+
 Ritchie, H., Roser, M., & Rosado, P. (n.d.). CO₂ and Greenhouse Gas Emissions - Our World in Data. Our World in Data; ourworldindata.org. Retrieved April 02, 2022, from https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+
 Statistics Division, U. N. (n.d.). &mdash; SDG Indicators. &mdash; SDG Indicators; unstats.un.org. Retrieved April 0, 2022, from https://unstats.un.org/sdgs/report/2021/goal-13/
+
 Statistics Division, U. N. (n.d.). &mdash; SDG Indicators. &mdash; SDG Indicators; unstats.un.org. Retrieved June 10, 2022, from https://unstats.un.org/sdgs/report/2021/goal-13/
+
 Tuvalu | CLIMATE CHANGE COMMUNICATION AND EDUCATION | Education Profiles. (n.d.). Tuvalu | CLIMATE CHANGE COMMUNICATION AND EDUCATION | Education Profiles; education-profiles.org. Retrieved June 10, 2022, from https://education-profiles.org/oceania/tuvalu/~climate-change-communication-and-education
+
 United Nations Climate Change. (n.d.). unfccc.int. Retrieved June 10, 2022, from https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs/nationally-determined-contributions-ndcs
+
 Updated climate commitments ahead of COP26 summit fall far short, but net-zero pledges provide hope. (2021, October 26). UN Environment; www.unep.org. https://www.unep.org/news-and-stories/press-release/updated-climate-commitments-ahead-cop26-summit-fall-far-short-net
