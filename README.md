@@ -48,6 +48,9 @@ Cooperation among private or public sectors and local communities is critical to
 **Expected Output**
 
 According to NOAA scientist, 2020 will be the warmest year on record, matching 2016 for the first place and putting 2019 in third place. The goal of this study is to examine data in depth in order to improve the country's NDC imolementation. Effective collaboration to achieve the identified goals necessitates good and efficient climate change governance.
+
+**Recorded Presentation**
+https://l.messenger.com/l.php?u=https%3A%2F%2Fyoutu.be%2FaujGh4Cdxt4&h=AT35NFOwMmxUMJ2Lx-sEV5KgdNRGFHUqc143Dh89_Z4tmL120m0VWEp5iifHLEbsKeGTryG434Dn0JdJEW4dsyBju0bHr3fxvJzLXK-jQ7x5F0IFPgdITV29SCFkzOmyPpTowQ
  
 **Sustainable Development Goals**
 1. GOAL 7: AFFORDABLE AND CLEAN ENERGY - Energy is central to nearly every major challenge and opportunity.
