@@ -2,6 +2,8 @@
 
 **MEMBERS**
 
+**ITBA 3207)**
+
 Abraham, Jhon Martin
 
 Esguerra, Charles Ivan
@@ -26,7 +28,7 @@ To provide help for the improvement of NDC implementation in the Philippines, re
 
 **Problem Statement**
 
-Philippine NDC lacks clarity for achieving its objective of reducing the emissions by 75% by 230. According to Greenpeace Philippines (2021), the proposal does not address specific and concrete policies for implementation to different sectors such as transportation, waste, energy, industrial and agricultural sectors. The government is responsible for the implementation of NDC as part of climate change adaptation strategy, although NDC requires higher degree of the participation of each citizen, it is not clearly evident. The cooperation of each individual is also necessary, as well as the collaboration and initiatives of relevant agencies from each sectors to support the Philippine government in accomolishing the aim. 
+Philippine NDC lacks clarity for achieving its objective of reducing the emissions by 75% by 2030. According to Greenpeace Philippines (2021), the proposal does not address specific and concrete policies for implementation to different sectors such as transportation, waste, energy, industrial and agricultural sectors. The government is responsible for the implementation of NDC as part of climate change adaptation strategy, although NDC requires higher degree of the participation of each citizen, it is not clearly evident. The cooperation of each individual is also necessary, as well as the collaboration and initiatives of relevant agencies from each sectors to support the Philippine government in accomolishing the aim. 
 
 
 **Significance of the proposed project**
