@@ -49,7 +49,7 @@ Cooperation among private or public sectors and local communities is critical to
 
 According to NOAA scientist(2020), 2020 will be the warmest year on record, matching 2016 for the first place and putting 2019 in third place. The goal of this study is to examine data in depth in order to improve the country's NDC imolementation. Effective collaboration to achieve the identified goals necessitates good and efficient climate change governance.
 
-**Recorded Presentation**
+**Recorded Presentation (live)**
 
 https://youtu.be/aujGh4Cdxt4
 
