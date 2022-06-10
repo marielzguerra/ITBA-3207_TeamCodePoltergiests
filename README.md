@@ -51,7 +51,11 @@ According to NOAA scientist(2020), 2020 will be the warmest year on record, matc
 
 **Recorded Presentation**
 
+https://youtu.be/aujGh4Cdxt4
 
+**Updated Presentation**
+
+https://youtu.be/meqILFf-d9g
  
 **Sustainable Development Goals**
 1. GOAL 7: AFFORDABLE AND CLEAN ENERGY - Energy is central to nearly every major challenge and opportunity.
