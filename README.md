@@ -64,7 +64,7 @@ https://youtu.be/meqILFf-d9g
 3. **GOAL 12:** RESPONSIBLE CONSUMPTION AND PRODUCTION - Responsible Production and Consumption
 <img src= "https://user-images.githubusercontent.com/102888960/171346010-030d0aa1-c19c-47a0-8547-95dc66aad3c8.png" width="150" height="150">
 
-4. **GOAL 13: CLIMATE ACTION** - Climate change is a global challenge that affects everyone, everywhere.
+4. **GOAL 13:** CLIMATE ACTION - Climate change is a global challenge that affects everyone, everywhere.
 <img src= "https://user-images.githubusercontent.com/102888960/171018002-4e4a4d63-5493-4c6d-9d8c-d0851890602b.png" width="150" height="150">
 
 
